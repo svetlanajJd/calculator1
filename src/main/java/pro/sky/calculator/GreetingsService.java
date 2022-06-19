@@ -1,5 +1,6 @@
 package pro.sky.calculator;
 
+
 public interface GreetingsService {
     String greetings();
 
